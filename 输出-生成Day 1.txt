@@ -1,0 +1,5 @@
+﻿已启动生成…
+1>------ 已启动生成: 项目: Project1  practice  Day 1, 配置: Debug x64 ------
+1>Day  1.c
+1>Project1  practice  Day 1.vcxproj -> D:\VS2022\A June's  C++  practice  project\Day  1\Project1  practice  Day 1\x64\Debug\Project1  practice  Day 1.exe
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
